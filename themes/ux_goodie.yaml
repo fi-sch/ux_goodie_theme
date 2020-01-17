@@ -13,7 +13,7 @@ ux_goodie:
   
 
 # BACKGROUND AND SIDEBAR
-  primary-background-color: "#2e2e2e"  # main app background mostly
+  primary-background-color: "#2E2E2E"  # main app background mostly
   secondary-background-color: "rgba(10, 10, 10, 0.85)"
   
   sidebar-background-color: "#2e2e2e"
