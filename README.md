@@ -67,7 +67,7 @@ NOTE: `options:` from above example may not display properly in HACS. Please see
 2. Search for `UX Goodie Theme`.
 3. Navigate to `UX Goodie Theme` theme.
 4. Press `Install`.
-5. Put `background.jpg` into your `/config/www/` directory. For example file see `backgrounds/` directory of this repo.
+5. Follow point 2 from `Installation` section above.
 6. Go to services and trigger the `frontend.reload_themes` service.
 7. (Optional) Follow point 3 from `Installation` section above.
 
