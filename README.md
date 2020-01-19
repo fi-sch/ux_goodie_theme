@@ -59,7 +59,7 @@ custom_header:
     options: '{{ time }}<br>{{ date }}'
   compact_mode: true
 ```
-(NOTE: `options:` from above example may not display properly in HACS. Please see GitHub repository.)
+NOTE: `options:` from above example may not display properly in HACS. Please see GitHub repository.)
 
 ### HACS
 
@@ -87,14 +87,4 @@ cd themes/
 git submodule add https://github.com/home-assistant-community-themes/lovelace-ux-goodie-theme.git
 ```
 
-2. Put background.jpg into your `/config/www/` directory. For example file see backgrounds/ directory of this repository.
-
-3. (Optional) Add the following to your `lovelace-ui.yaml` or use the RAW editor: (you also need to install [`custom-header`](https://github.com/maykar/custom-header)) to display date and time in tab bar:
-
-```
-custom_header:
-  button_text:
-    options: '{{ time }}<br>{{ date }}'
-  compact_mode: true
-```
-(NOTE: `options:` from above example may not display properly in HACS. Please see GitHub repository.)
+2. Follow points 2 and 3 from `Installation` section above.
