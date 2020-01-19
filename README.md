@@ -4,7 +4,7 @@
 
 <a href="https://www.buymeacoffee.com/fisch" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-2.svg" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
 
-> The UX Goodie Theme for Home Assistant made by @fi-sch. Inspired by iOS Dark Mode and [@basnijholt](https://github.com/basnijholt/lovelace-ios-dark-mode-theme)'s theme.
+> The UX Goodie Theme for Home Assistant made by @fi-sch. Inspired by iOS Dark Mode and [@basnijholt](https://github.com/basnijholt/lovelace-ios-dark-mode-theme)'s theme. 
 
 See instructions below!
 
