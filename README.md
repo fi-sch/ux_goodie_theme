@@ -12,31 +12,31 @@ See instructions below!
 
 ### Overview
 
-![Theme - Overview](https://github.com/fi-sch/lovelace-ux-goodie-theme/raw/master/docs/theme-overview.jpg)
+![Theme - Overview](https://raw.githubusercontent.com/fi-sch/ux_goodie_theme/master/docs/theme-overview.jpg)
 
 ### Logbook
 
-![Theme - Logbook](https://github.com/fi-sch/lovelace-ux-goodie-theme/raw/master/docs/theme-logbook.png)
+![Theme - Logbook](https://raw.githubusercontent.com/fi-sch/ux_goodie_theme/master/docs/theme-logbook.png)
 
 ### History
 
-![Theme - History](https://github.com/fi-sch/lovelace-ux-goodie-theme/raw/master/docs/theme-history.png)
+![Theme - History](https://raw.githubusercontent.com/fi-sch/ux_goodie_theme/master/docs/theme-history.png)
 
 ### Developer Tools
 
-![Theme - Developer Tools](https://github.com/fi-sch/lovelace-ux-goodie-theme/raw/master/docs/theme-developer-tools.png)
+![Theme - Developer Tools](https://raw.githubusercontent.com/fi-sch/ux_goodie_theme/master/docs/theme-developer-tools.png)
 
 ### Hass.io
 
-![Theme - Hass.io](https://github.com/fi-sch/lovelace-ux-goodie-theme/raw/master/docs/theme-hassio.png)
+![Theme - Hass.io](https://raw.githubusercontent.com/fi-sch/ux_goodie_theme/master/docs/theme-hassio.png)
 
 ### Configuration
 
-![Theme - Configuration](https://github.com/fi-sch/lovelace-ux-goodie-theme/raw/master/docs/theme-configuration.png)
+![Theme - Configuration](https://raw.githubusercontent.com/fi-sch/ux_goodie_theme/master/docs/theme-configuration.png)
 
 ### Profile
 
-![Theme - Profile](https://github.com/fi-sch/lovelace-ux-goodie-theme/raw/master/docs/theme-profile.png)
+![Theme - Profile](https://raw.githubusercontent.com/fi-sch/ux_goodie_theme/master/docs/theme-profile.png)
 
 ## Installation
 
