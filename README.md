@@ -2,7 +2,7 @@
 
 [![hacs_badge](https://img.shields.io/badge/HACS-Default-orange.svg)](https://github.com/custom-components/hacs)
 
-<a href="https://www.buymeacoffee.com/fisch" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/black_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
+<a href="https://www.buymeacoffee.com/fisch" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
 
 > The UX Goodie Theme for Home Assistant made by @fi-sch. Inspired by iOS Dark Mode and @basnijholt's theme.
 
@@ -49,7 +49,7 @@ frontend:
   ... # your configuration.
 ```
 
-2. Put background.jpg into your `/config/www/` directory. For example file see backgrounds/ directory of this repository.
+2. Put `background.jpg` into your `/config/www/` directory. For example file see `backgrounds/` directory of this repository.
 
 3. (Optional) Add the following to your `lovelace-ui.yaml` or use the RAW editor: (you also need to install [`custom-header`](https://github.com/maykar/custom-header)) to display date and time in tab bar:
 
