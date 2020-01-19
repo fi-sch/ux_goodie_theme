@@ -59,7 +59,7 @@ custom_header:
     options: '{{ time }}<br>{{ date }}'
   compact_mode: true
 ```
-(`options:` from above example may not display properly in HACS. Please see GitHub repository.)
+(NOTE: `options:` from above example may not display properly in HACS. Please see GitHub repository.)
 
 ### HACS
 
@@ -97,4 +97,4 @@ custom_header:
     options: '{{ time }}<br>{{ date }}'
   compact_mode: true
 ```
-(`options:` from above example may not display properly in HACS. Please see GitHub repository.)
+(NOTE: `options:` from above example may not display properly in HACS. Please see GitHub repository.)
