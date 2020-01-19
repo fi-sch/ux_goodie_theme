@@ -87,4 +87,4 @@ cd themes/
 git submodule add https://github.com/home-assistant-community-themes/lovelace-ux-goodie-theme.git
 ```
 
-2. Follow points 2 and 3 from `Installation` section above.
+2. Follow points 2 and 3 from `Installation` section above. 
