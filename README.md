@@ -49,9 +49,9 @@ frontend:
   ... # your configuration.
 ```
 
-2. Put background.jpg into your `/config/www/` directory. For example file see backgrounds/ directory of this repo.
+2. Put background.jpg into your `/config/www/` directory. For example file see backgrounds/ directory of this repository.
 
-3. (Optional) Add the following to your `lovelace-ui.yaml` or use the RAW editor: (you also need to install [`custom-header`](https://github.com/maykar/custom-header)):
+3. (Optional) Add the following to your `lovelace-ui.yaml` or use the RAW editor: (you also need to install [`custom-header`](https://github.com/maykar/custom-header)) to display date and time in tab bar:
 
 ```
 custom_header:
@@ -59,6 +59,7 @@ custom_header:
     options: '{{ time }}<br>{{ date }}'
   compact_mode: true
 ```
+(`options:` from above example may not display properly in HACS. Please see GitHub repository.)
 
 ### HACS
 
@@ -66,11 +67,13 @@ custom_header:
 2. Search for `UX Goodie Theme`.
 3. Navigate to `UX Goodie Theme` theme.
 4. Press `Install`.
+5. Put background.jpg into your `/config/www/` directory. For example file see backgrounds/ directory of this repo.
 6. Go to services and trigger the `frontend.reload_themes` service.
+7. (Optional) Follow point 3 from `Installation` section above.
 
 ### Manual
 
-Clone this repository in your existing (or create it) `themes/` folder.
+1. Clone this repository in your existing (or create it) `themes/` folder.
 
 ```bash
 cd themes/
@@ -83,3 +86,15 @@ Or using submodules:
 cd themes/
 git submodule add https://github.com/home-assistant-community-themes/lovelace-ux-goodie-theme.git
 ```
+
+2. Put background.jpg into your `/config/www/` directory. For example file see backgrounds/ directory of this repository.
+
+3. (Optional) Add the following to your `lovelace-ui.yaml` or use the RAW editor: (you also need to install [`custom-header`](https://github.com/maykar/custom-header)) to display date and time in tab bar:
+
+```
+custom_header:
+  button_text:
+    options: '{{ time }}<br>{{ date }}'
+  compact_mode: true
+```
+(`options:` from above example may not display properly in HACS. Please see GitHub repository.)
