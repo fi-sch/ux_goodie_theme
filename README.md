@@ -41,6 +41,7 @@ See instructions below!
 ## Installation
 
 1. Add the following code to your `configuration.yaml` file (reboot required).
+
 ```yaml
 frontend:
   ... # your configuration.
