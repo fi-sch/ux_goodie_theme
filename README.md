@@ -41,14 +41,12 @@ See instructions below!
 ## Installation
 
 1. Add the following code to your `configuration.yaml` file (reboot required).
-
 ```yaml
 frontend:
   ... # your configuration.
   themes: !include_dir_merge_named themes
   ... # your configuration.
 ```
-
 2. Put `background.jpg` into your `/config/www/` directory. For example file see `backgrounds/` directory of this repository.
 
 3. (Optional) Add the following to your `lovelace-ui.yaml` or use the RAW editor: (you also need to install [`custom-header`](https://github.com/maykar/custom-header)) to display date and time in tab bar:
@@ -74,7 +72,6 @@ NOTE: `options:` from above example may not display properly in HACS. Please see
 ### Manual
 
 1. Clone this repository in your existing (or create it) `themes/` folder.
-
 ```bash
 cd themes/
 git clone https://github.com/home-assistant-community-themes/lovelace-ux-goodie-theme.git
@@ -86,7 +83,6 @@ Or using submodules:
 cd themes/
 git submodule add https://github.com/home-assistant-community-themes/lovelace-ux-goodie-theme.git
 ```
-
 2. Follow points 2 and 3 from `Installation` section above.
 
 ### Known Issues
