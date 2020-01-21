@@ -85,6 +85,7 @@ git submodule add https://github.com/home-assistant-community-themes/lovelace-ux
 ```
 2. Follow points 2 and 3 from `Installation` section above.
 
+
 ### Known Issues
 
 "Publish" button Dev Tools -> MQTT section appears totally white. This is somehow related to inconsistency within color properties of buttons across the application.
