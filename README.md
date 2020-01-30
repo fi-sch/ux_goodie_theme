@@ -47,7 +47,11 @@ frontend:
   themes: !include_dir_merge_named themes
   ... # your configuration.
 ```
-2. Put `background.jpg` into your `/config/www/` directory. For example file see `backgrounds/` directory of this repository.
+2. (Required) Put `background.jpg` into your `/config/www/` directory. For example file see `backgrounds/` directory of this repository.
+Alternatively, if you don't want to use any background just comment the 5th line of `ux_goodie.yaml`
+```yaml
+lovelace-background: 'center / cover no-repeat url("/local/background.jpg") fixed'
+```
 
 3. (Optional) Add the following to your `lovelace-ui.yaml` or use the RAW editor: (you also need to install [`custom-header`](https://github.com/maykar/custom-header)) to display date and time in tab bar:
 
@@ -78,7 +82,6 @@ git clone https://github.com/home-assistant-community-themes/lovelace-ux-goodie-
 ```
 
 Or using submodules:
-
 ```bash
 cd themes/
 git submodule add https://github.com/home-assistant-community-themes/lovelace-ux-goodie-theme.git
