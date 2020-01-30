@@ -6,7 +6,7 @@
 
 > The UX Goodie Theme for Home Assistant made by @fi-sch. Inspired by iOS Dark Mode and [@basnijholt](https://github.com/basnijholt/lovelace-ios-dark-mode-theme)'s theme.
 
-Please see instructions below for a proper setup!
+Please see instructions below!
 
 ## Screenshots
 
