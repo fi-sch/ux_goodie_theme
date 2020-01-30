@@ -6,7 +6,7 @@
 
 > The UX Goodie Theme for Home Assistant made by @fi-sch. Inspired by iOS Dark Mode and [@basnijholt](https://github.com/basnijholt/lovelace-ios-dark-mode-theme)'s theme.
 
-See instructions below!
+Please see instructions below for proper setup!
 
 ## Screenshots
 
@@ -47,7 +47,7 @@ frontend:
   themes: !include_dir_merge_named themes
   ... # your configuration.
 ```
-2. (Required) Put `background.jpg` into your `/config/www/` directory. For example file see `backgrounds/` directory of this repository.
+2. Put `background.jpg` into your `/config/www/` directory. For example file see `backgrounds/` directory of this repository.
 Alternatively, if you don't want to use any background just comment the 5th line of `ux_goodie.yaml`
 ```yaml
 lovelace-background: 'center / cover no-repeat url("/local/background.jpg") fixed'
