@@ -107,5 +107,10 @@ ux_goodie:
   
   paper-spinner-color: "var(--primary-color)"
   
+  google-red-500: "#FF453A"
+  google-blue-500: "#0A84FF"
+  google-green-500: "#30D158"
+  google-yellow-500: "#FF9F0A"
+  
   material-secondary-text-color: "var(--secondary-text-color)"
   
