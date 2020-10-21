@@ -82,6 +82,9 @@ ux_goodie:
   text-dark-color: "#FFF"
   markdown-code-background-color: "#1A1A1A"
 
+# SUPERVISOR
+  ha-bar-background-color: "#2E2E2E"
+
 
 ### OTHERS
   error-color: "#FF453A"
