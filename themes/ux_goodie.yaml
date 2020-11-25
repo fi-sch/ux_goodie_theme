@@ -13,6 +13,7 @@ ux_goodie:
   app-header-background-color-custom: "rgba(10, 10, 10, 0.65)"  # dashboard top bar (for card-mod-theme styling at the end of this file)
   codemirror-meta: "var(--primary-text-color)" # code editor – simple styling
 
+
 # BACKGROUND AND SIDEBAR
   primary-background-color: "#2E2E2E"  # main app background mostly
   secondary-background-color: "rgba(10, 10, 10, 0.85)"
