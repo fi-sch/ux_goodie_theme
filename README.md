@@ -6,7 +6,7 @@
 
 Please see instructions below!
 
-## Screenshots
+## Screenshots (a little bit outdated)
 
 ### Overview
 
