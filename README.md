@@ -1,6 +1,6 @@
 # UX Goodie Theme
 
-[![hacs_badge](https://img.shields.io/badge/HACS-Default-orange.svg)](https://github.com/custom-components/hacs)
+[![hacs_badge](https://img.shields.io/badge/HACS-Default-orange.svg)](https://github.com/hacs/integration)
 
 > The UX Goodie Theme for Home Assistant made by @fi-sch. Inspired by iOS Dark Mode and [@basnijholt](https://github.com/basnijholt/lovelace-ios-dark-mode-theme)'s theme.
 
